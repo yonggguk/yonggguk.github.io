@@ -1,7 +1,7 @@
 ---
 title: Start 거북이 개발자의 블로그
 author: yonggguk
-date: 2019-10-18 09:00 +0900
+date: 2022-07-04 09:00 +0900
 categories: [DailyReview, 2022-07]
 tags: [writing]
 ---
