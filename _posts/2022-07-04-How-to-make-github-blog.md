@@ -1,10 +1,9 @@
 ---
 title: How to Start Github Blog
 author: yonggguk
-date: 2022-07-04 22:02:00 -0800
+date: 2019-10-18 09:00 +0900
 categories: [GithubBlog]
 tags: [GithubBlog]
-math: true
 mermaid: true
 ---
 
