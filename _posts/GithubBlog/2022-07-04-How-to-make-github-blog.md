@@ -1,8 +1,8 @@
 ---
-title: Start 거북이 개발자의 블로그
-date: 2022-07-04 21:53:00
-categories: [DailyReview]
-tags: [DailyReview]
+title: How to Start Github Blog
+date: 2022-07-04 22:02:00
+categories: [GithubBlog]
+tags: [GithubBlog]
 author: yonggguk
 ---
 
