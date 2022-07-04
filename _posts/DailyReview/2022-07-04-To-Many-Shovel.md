@@ -1,9 +1,11 @@
 ---
 title: Start 거북이 개발자의 블로그
+author: yonggguk
 date: 2022-07-04 21:53:00
 categories: [DailyReview]
 tags: [DailyReview]
-author: yonggguk
+math: true
+mermaid: true
 ---
 
 내 경험과 지식을 공유함과 동시에 내가 그 날 공부한 것들을 잘 이해하고 있는지를 기록하기 위함인 블로그입니다.
