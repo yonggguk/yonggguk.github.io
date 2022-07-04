@@ -2,7 +2,7 @@
 title: How to Start Github Blog
 author: yonggguk
 date: 2022-07-04 22:02:00
-categories: [GithubBlog]
+categories: [GithubBlog, GithubBlog]
 tags: [GithubBlog]
 math: true
 mermaid: true
