@@ -1,7 +1,7 @@
 ---
 title: How to Start Github Blog
 author: yonggguk
-date: 2022-07-04 22:02:00 +0800
+date: 2021-01-03 18:32:00 -0500
 categories: [GithubBlog, GithubBlog]
 tags: [GithubBlog]
 math: true
