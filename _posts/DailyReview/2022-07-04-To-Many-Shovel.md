@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Start 거북이 개발자의 블로그
 author: yonggguk
 date: 2022-07-04 21:53:00
