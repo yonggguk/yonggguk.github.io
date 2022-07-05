@@ -2,8 +2,8 @@
 title: Start 거북이 개발자의 블로그
 author: yonggguk
 date: 2022-07-04 09:00 +0900
-categories: [DailyReview, 2022-07]
-tags: [writing]
+categories: [DailyReview, R-2022-07]
+tags: [Review]
 ---
 
 내 경험과 지식을 공유함과 동시에 내가 그 날 공부한 것들을 잘 이해하고 있는지를 기록하기 위함인 블로그입니다.
