@@ -2,7 +2,7 @@
 title: Start 거북이 개발자의 블로그
 author: yonggguk
 date: 2022-07-04 09:00 +0900
-categories: [DailyReview, R-2022-07]
+categories: [WeekReview, R-2022-07]
 tags: [Review]
 ---
 
