@@ -1,9 +1,9 @@
 ---
 title: getter와 setter를 사용하는 이유
 author: yonggg
-date: 2022-07-06 09:00:00 +08:00
+date: 2022-07-13 09:00:00 +08:00
 categories: [JAVA]
-tags: [question, java]
+tags: [Question, java]
 math: true
 mermaid: true
 ---
